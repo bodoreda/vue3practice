@@ -2,6 +2,8 @@
     <div class="header">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/counter">Counter</RouterLink>
+        <RouterLink to="/deepMutate">DeepMutate</RouterLink>
+        <RouterLink to="/directive">V-Directive</RouterLink>
     </div>
 </template>
 
