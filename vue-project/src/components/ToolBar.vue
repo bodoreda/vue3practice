@@ -4,6 +4,11 @@
         <RouterLink to="/counter">Counter</RouterLink>
         <RouterLink to="/deepMutate">DeepMutate</RouterLink>
         <RouterLink to="/directive">V-Directive</RouterLink>
+        <RouterLink to="/Event">Event</RouterLink>
+        <RouterLink to="/Binding">Binding</RouterLink>
+        <RouterLink to="/Hook">LifeCycleHook</RouterLink>
+        <RouterLink to="/Watch">Watch</RouterLink>
+        <RouterLink to="/Parent">Props</RouterLink>
     </div>
 </template>
 

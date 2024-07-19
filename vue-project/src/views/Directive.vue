@@ -35,6 +35,7 @@
 
 <script setup>
 import { ref } from 'vue';
+import Counter from './Counter.vue';
 
 let vif = ref(true);
 let vshow = ref(true);
